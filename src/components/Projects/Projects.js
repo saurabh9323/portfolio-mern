@@ -71,7 +71,7 @@ user authentication, real-time bidding, and payment processing for a seamless us
               imgPath={todolist}
               isBlog={false}
               title="To-Do-list"
-              description="The project is a modern to-do list application built with React.js and styled using Tailwind CSS. It allows users to add, edit, and delete tasks dynamically. Features include drag-and-drop functionality for task rearrangement and responsive design for seamless use across devices."
+              description="The project is a modern to-do list application built with React.js and styled using Tailwind CSS. It allows users to add, edit, and delete tasks dynamically. Features include drag-and-drop functionality for task rearrangement and responsive design for seamless use across devices. and responsive"
               ghLink="https://github.com/saurabh9323/TO-DO-LIST-CLIENT"
               demoLink="https://to-do-list-client-six.vercel.app/"
             />
