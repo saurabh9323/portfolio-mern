@@ -1,10 +1,6 @@
 import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
-import {
-  AiFillGithub,
-  AiOutlineTwitter,
-  AiFillInstagram,
-} from "react-icons/ai";
+import { AiFillGithub, AiFillInstagram } from "react-icons/ai";
 import { FaLinkedinIn } from "react-icons/fa";
 
 function Footer() {
@@ -17,13 +13,13 @@ function Footer() {
           <h3>Designed and Developed by Saurabh Pathak</h3>
         </Col>
         <Col md="4" className="footer-copywright">
-          <h3>Copyright © {year} SB</h3>
+          <h3>Copyright © {year} SP</h3>
         </Col>
         <Col md="4" className="footer-body">
           <ul className="footer-icons">
             <li className="social-icons">
               <a
-                href="https://github.com/Saurabh4419"
+                href="https://github.com/Saurabh9323"
                 style={{ color: "white" }}
                 target="_blank"
                 rel="noopener noreferrer"
@@ -31,19 +27,10 @@ function Footer() {
                 <AiFillGithub />
               </a>
             </li>
+
             <li className="social-icons">
               <a
-                href="https://twitter.com/Saurabh4419"
-                style={{ color: "white" }}
-                target="_blank"
-                rel="noopener noreferrer"
-              >
-                <AiOutlineTwitter />
-              </a>
-            </li>
-            <li className="social-icons">
-              <a
-                href="https://www.linkedin.com/in/Saurabh4419/"
+                href="https://linkedin.com/in/pathak-saurabh-ab8a58257/"
                 style={{ color: "white" }}
                 target="_blank"
                 rel="noopener noreferrer"
@@ -53,7 +40,7 @@ function Footer() {
             </li>
             <li className="social-icons">
               <a
-                href="https://www.instagram.com/Saurabh4419"
+                href="https://www.instagram.com/saurabh.pathak52/"
                 style={{ color: "white" }}
                 target="_blank"
                 rel="noopener noreferrer"

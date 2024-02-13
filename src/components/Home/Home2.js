@@ -72,19 +72,10 @@ function Home2() {
                   <AiFillGithub />
                 </a>
               </li>
+
               <li className="social-icons">
                 <a
-                  href="https://twitter.com/Saurabh4419"
-                  target="_blank"
-                  rel="noreferrer"
-                  className="icon-colour  home-social-icons"
-                >
-                  <AiOutlineTwitter />
-                </a>
-              </li>
-              <li className="social-icons">
-                <a
-                  href="https://www.linkedin.com/in/Saurabh4419/"
+                  href="https://linkedin.com/in/pathak-saurabh-ab8a58257/"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -94,7 +85,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://www.instagram.com/Saurabh4419"
+                  href="https://www.instagram.com/saurabh.pathak52/"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour home-social-icons"
