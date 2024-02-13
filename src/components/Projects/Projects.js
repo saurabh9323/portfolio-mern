@@ -39,8 +39,8 @@ user authentication, real-time bidding, and payment processing for a seamless us
               isBlog={false}
               title="FoodVilla"
               description="FoodVilla is a React-based project resembling Swiggy, leveraging Redux for state management, React Router for navigation, and Tailwind CSS for styling. It offers features akin to Swiggy, such as browsing menus, placing orders, and tracking deliveries. Implemented with modularity and scalability, it ensures a seamless user experience akin to popular food delivery platforms."
-              ghLink="https://github.com/saurabh9323/auction-client"
-              demoLink="https://blogs.soumya-jit.tech/"
+              ghLink="https://github.com/saurabh9323/foodvilla"
+              demoLink="https://foodvilla-eight.vercel.app/"
             />
           </Col>
 
