@@ -18,7 +18,7 @@
 
 ## TL;DR
 
-You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [Saurabh4419](https://github.com/Saurabh9323/Portfolio). Thanks!
+You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [Saurabh9323](https://github.com/Saurabh9323/Portfolio). Thanks!
 
 ## Built With
 
