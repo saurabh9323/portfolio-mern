@@ -11,7 +11,7 @@ function AboutCard() {
             Hi Everyone, I am <span className="purple">Saurabh Pathak </span>
             from <span className="purple"> Maharashtra, India.</span>
             <br />
-            I am currently fresher seraching a job as a software developer.
+            I am currently fresher searching a job as a software developer.
             <br />
             I have completed my Bachelor of Engineering in computer science from
             at University of Mumbai.
