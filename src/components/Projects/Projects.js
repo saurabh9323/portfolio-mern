@@ -40,7 +40,7 @@ user authentication, real-time bidding, and payment processing for a seamless us
               title="FoodVilla"
               description="FoodVilla is a React-based project resembling Swiggy, leveraging Redux for state management, React Router for navigation, and Tailwind CSS for styling. It offers features akin to Swiggy, such as browsing menus, placing orders, and tracking deliveries. Implemented with modularity and scalability, it ensures a seamless user experience akin to popular food delivery platforms."
               ghLink="https://github.com/saurabh9323/auction-client"
-              demoLink="https://blogs.soumya-jit.tech/"
+              demoLink="https://foodvilla-eight.vercel.app/"
             />
           </Col>
 
@@ -51,7 +51,7 @@ user authentication, real-time bidding, and payment processing for a seamless us
               title="Chat-app"
               description="Personal Chat Room or Workspace to share resources and hangout with friends build with react.js, Material-UI, and Firebase. Have features which allows user for realtime messaging, image sharing as well as supports reactions on messages."
               ghLink="https://github.com/Saurabh4419/Editor.io"
-              demoLink="https://editor.soumya-jit.tech/"
+             
             />
           </Col>
 
@@ -86,7 +86,7 @@ user authentication, real-time bidding, and payment processing for a seamless us
 authentication, secure messaging, and real-time updates using Socket.io. Utilized MongoDB for efficient data management.
 Designed a responsive UI with React.js for seamless cross-device chat experience."
               ghLink="https://github.com/saurabh592/ecommerce"
-              // demoLink="https://blogs.soumya-jit.tech/"      <--------Please include a demo link here
+       
             />
           </Col>
         </Row>
